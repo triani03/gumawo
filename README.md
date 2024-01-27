@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>GUMAWO THRIFT SHOP</title>
@@ -16,11 +16,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
  <b><font size="15">Gumawo Thrift Shop</font><br><b>
     <dd><a href="produk.html">Produk</a></dd>  
     </ul>
-</body>
-</html>
